@@ -4,7 +4,7 @@
 }
 
 body{
-  font-family: 'Abel',Georgia, sans-serif;	font-weight:400;
+font-family: 'Roboto Condensed', sans-serif;font-weight:400;
 	background:rgba(255,255,255,1);
 	color:rgba(0,0,0,1);
 }
@@ -80,7 +80,7 @@ video{
 .primera{
 	min-height:300px;
 	text-align:left;
-	background-color:rgba(241,230,210,1);
+	background-color:rgba(132,176,211,1);
 	background-image:url('media/dupla-01.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
@@ -97,7 +97,7 @@ video{
 .segunda{
 	min-height:300px;
 	text-align:right;
-	background-color:rgba(231,240,239,1);
+	background-color:rgba(230,162,196,1);
 	background-image:url('media/dupla-02.jpg');
 	background-position:top left;
 	background-repeat:no-repeat;
